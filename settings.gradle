@@ -1,1 +1,1 @@
-include ':WebViewDemo'
+include ':WebViewDemo', ':PreferenceActivityDemo'

@@ -1,0 +1,27 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="第一组">
+        <CheckBoxPreference
+            android:checked="true"
+            android:title="不再提醒" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="第二组">
+        <EditTextPreference
+            android:capitalize="words"
+            android:defaultValue="@string/pref_default_display_name"
+            android:inputType="textCapWords"
+            android:key="example_text"
+            android:maxLines="1"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="@string/pref_title_display_name" />
+        <ListPreference
+            android:dialogTitle="城市"
+            android:entries="@array/city"
+            android:entryValues="@array/country"
+            android:title="列表" />
+        <Preference
+            android:summary="么么哒"
+            android:title="Rair" />
+        <SwitchPreference android:title="免打扰" />
+    </PreferenceCategory>
+</PreferenceScreen>

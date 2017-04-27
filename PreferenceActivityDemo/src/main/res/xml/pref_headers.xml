@@ -1,0 +1,14 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--启动指定PreferenceFragment-->
+    <header
+        android:fragment="com.rair.preferenceactivitydemo.PreferenceActivityWithPreferenceFragment$GeneralPreferenceFragment"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/pref_header_general" />
+    <header
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="打开百度">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:data="https://www.baidu.com" />
+    </header>
+</preference-headers>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:key="one"
+        android:summary="配置全局应用设置"
+        android:title="应用" />
+    <Preference
+        android:key="two"
+        android:summary="配置编辑器"
+        android:title="编辑器" />
+    <Preference
+        android:key="three"
+        android:summary="配置全局应用设置"
+        android:title="应用" />
+    <Preference
+        android:key="four"
+        android:summary="配置代码风格"
+        android:title="代码风格" />
+    <Preference
+        android:key="five"
+        android:summary="配置构建运行设置"
+        android:title="构建运行" />
+    <Preference
+        android:key="six"
+        android:summary="配置Dropbox同步设置"
+        android:title="Dropbox" />
+    <Preference
+        android:key="seven"
+        android:summary="配置Git版本控制"
+        android:title="Git版本控制" />
+    <Preference
+        android:key="eight"
+        android:summary="显示法律相关信息"
+        android:title="法律" />
+
+
+</PreferenceScreen>
