@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConnectivityManagerDemo/ConnectivityManagerDemo.iml" filepath="$PROJECT_DIR$/ConnectivityManagerDemo/ConnectivityManagerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/PreferenceActivityDemo/PreferenceActivityDemo.iml" filepath="$PROJECT_DIR$/PreferenceActivityDemo/PreferenceActivityDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RairDemo.iml" filepath="$PROJECT_DIR$/RairDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebViewDemo/WebViewDemo.iml" filepath="$PROJECT_DIR$/WebViewDemo/WebViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WifiDemo/WifiDemo.iml" filepath="$PROJECT_DIR$/WifiDemo/WifiDemo.iml" />
     </modules>
   </component>
 </project>
