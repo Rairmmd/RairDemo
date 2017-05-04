@@ -3,3 +3,4 @@
 ### 4.27:PreferenceActivityDemo PreferenceActivity设置
 ### 4.29:ConnectivityManagerDemo 连接管理
 ### 4.29:WifiDemo Wifi的简单入门使用Demo
+### 5.3:BluetoothDemo 蓝牙简单使用
