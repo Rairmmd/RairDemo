@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BluetoothDemo/BluetoothDemo.iml" filepath="$PROJECT_DIR$/BluetoothDemo/BluetoothDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConnectivityManagerDemo/ConnectivityManagerDemo.iml" filepath="$PROJECT_DIR$/ConnectivityManagerDemo/ConnectivityManagerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/PreferenceActivityDemo/PreferenceActivityDemo.iml" filepath="$PROJECT_DIR$/PreferenceActivityDemo/PreferenceActivityDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RairDemo.iml" filepath="$PROJECT_DIR$/RairDemo.iml" />
