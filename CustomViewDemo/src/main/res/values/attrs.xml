@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GroupView">
+        <!-- 背景 -->
+        <attr name="nav_bg" format="color|reference" />
+        <!-- 标题颜色 -->
+        <attr name="title_color" format="color|reference" />
+        <!-- 标题文字 -->
+        <attr name="title_text" format="string|reference" />
+        <!-- 标题文字大小 -->
+        <attr name="title_size" format="dimension|reference" />
+        <!-- 返回图标 -->
+        <attr name="back_image" format="reference" />
+    </declare-styleable>
+</resources>

@@ -1,1 +1,2 @@
-include ':WebViewDemo', ':PreferenceActivityDemo', ':ConnectivityManagerDemo', ':WifiDemo', ':BluetoothDemo'
+//include ':WebViewDemo', ':PreferenceActivityDemo', ':ConnectivityManagerDemo', ':WifiDemo', ':BluetoothDemo', ':CustomViewDemo'
+include ':CustomViewDemo'
