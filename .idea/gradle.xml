@@ -8,11 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/BluetoothDemo" />
-            <option value="$PROJECT_DIR$/ConnectivityManagerDemo" />
-            <option value="$PROJECT_DIR$/PreferenceActivityDemo" />
-            <option value="$PROJECT_DIR$/WebViewDemo" />
-            <option value="$PROJECT_DIR$/WifiDemo" />
+            <option value="$PROJECT_DIR$/CustomViewDemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

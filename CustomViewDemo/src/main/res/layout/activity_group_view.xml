@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.rair.customview.GroupViewActivity">
+
+    <com.rair.customview.view.GroupView
+        android:id="@+id/m_groupview"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:back_image="@drawable/ic_arrow_back_black_24dp"
+        app:nav_bg="@color/colorAccent"
+        app:title_color="@color/white"
+        app:title_size="25sp"
+        app:title_text="首页" />
+
+    <com.rair.customview.view.GroupView
+        android:id="@+id/m_groupview1"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_marginTop="10dp"
+        app:back_image="@drawable/ic_arrow_back_black_24dp"
+        app:nav_bg="@color/colorAccent"
+        app:title_color="@color/white"
+        app:title_size="25sp"
+        app:title_text="首页" />
+</LinearLayout>
