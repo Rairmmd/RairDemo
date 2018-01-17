@@ -1,1 +1,1 @@
-include ':BluetoothDemo', ':EncrptDemo'
+include ':EncrptDemo', ':FaceDetectDemo'
