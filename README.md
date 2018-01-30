@@ -6,3 +6,4 @@
 #### 5.3:BluetoothDemo 蓝牙简单使用 简书：http://www.jianshu.com/p/448f9292aad2
 #### 6.4:CustomViewDemo 自定义View简单案例-自绘 简书：http://www.jianshu.com/p/6326420d55fb
 #### 10.19:EncrptDemo 加密解密算法 简书：
+#### 01.17：FDetecDemo 自动对焦检测人脸
