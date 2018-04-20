@@ -8,7 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/CustomViewDemo" />
+            <option value="$PROJECT_DIR$/Encrpt" />
+            <option value="$PROJECT_DIR$/FaceDetect" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

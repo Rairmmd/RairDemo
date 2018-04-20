@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CustomViewDemo/CustomViewDemo.iml" filepath="$PROJECT_DIR$/CustomViewDemo/CustomViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encrpt/Encrpt.iml" filepath="$PROJECT_DIR$/Encrpt/Encrpt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FaceDetect/FaceDetect.iml" filepath="$PROJECT_DIR$/FaceDetect/FaceDetect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RairDemo.iml" filepath="$PROJECT_DIR$/.idea/RairDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RairDemo.iml" filepath="$PROJECT_DIR$/RairDemo.iml" />
     </modules>
   </component>

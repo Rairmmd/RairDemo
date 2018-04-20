@@ -1,1 +1,1 @@
-include ':EncrptDemo', ':FaceDetectDemo'
+include ':Encrpt', ':FaceDetect'
