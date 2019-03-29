@@ -1,1 +1,2 @@
-include ':Encrpt', ':FaceDetect'
+include ':module_bluetooth', ':module_connect_manager', ':module_custom_vew', ':module_preference_activity',
+        ':module_webview', ':module_wifi', ':module_encrpt', ':module_face_detect'
