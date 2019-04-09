@@ -1,2 +1,2 @@
-include ':module_bluetooth', ':module_connect_manager', ':module_custom_vew', ':module_preference_activity',
+include ':module_bluetooth', ':module_connect_manager', ':module_custom_vew', ':module_preference_activity', ':lib_promise',
         ':module_webview', ':module_wifi', ':module_encrpt', ':module_face_detect'
